@@ -1,0 +1,3 @@
+/home/tyler/CppProject/face-detect/build/CMakeFiles/main.dir
+/home/tyler/CppProject/face-detect/build/CMakeFiles/edit_cache.dir
+/home/tyler/CppProject/face-detect/build/CMakeFiles/rebuild_cache.dir
